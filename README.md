@@ -53,9 +53,7 @@ $ bain
 * GitHub : [Follow Me](https://www.github.com/botolmehedi)
 
 ## ***THANKS TO***
-* STEVEN STRANGE
-* VAIBA TUSLI
-* A4J6N R06
+* M011@ VAI ❤
 
 ### Warning
 
