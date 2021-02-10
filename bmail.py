@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import os,sys,time,bain
+import os,sys,time
 print
 print
 print('ALL PACKAGES ARE INSTALLING. PLEASE WAIT 1 OR 2 MINUTES.....')
